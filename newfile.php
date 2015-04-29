@@ -1,4 +1,4 @@
 <?php
 phpinfo();
-echo 'huag';
+echo 'hag';
 ?>
